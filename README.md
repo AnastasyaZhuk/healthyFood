@@ -1,1 +1,4 @@
-# healthyFood
+Проект в рамках изучения JavaScript, React
+
+
+
