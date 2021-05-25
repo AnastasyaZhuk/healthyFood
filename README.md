@@ -10,4 +10,6 @@
 - Добавлен калькулятор для подсчета калорий
 
 
+[Посмотреть демо](https://anastasyazhuk.github.io/healthyFood/)
+
 
